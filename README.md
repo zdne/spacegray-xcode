@@ -17,7 +17,7 @@ Xcode port of **@kkga**'s [Spacegray theme for Sublime Text](https://github.com/
 
 ### Source Code Pro Font
 
-If you do not have the [Source Code Pro](http://blogs.adobe.com/typblography/2012/09/source-code-pro.html) font installed you can get it at [SourceForge](http://sourceforge.net/projects/sourcecodepro.adobe/files/).
+If you do not have the [Source Code Pro](http://blogs.adobe.com/typblography/2012/09/source-code-pro.html) font installed you can get it from [GitHub](https://github.com/adobe-fonts/source-code-pro).
 
 ### Space Gray & Silver Xcode Theme
 
